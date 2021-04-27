@@ -1,0 +1,5 @@
+/herramientas/scrapping/node_modules
+
+/herramientas/scrapping/node_modules/puppeteer/.local-chromium/linux-869685/chrome-linux/chrome
+
+.vscode
